@@ -8,6 +8,7 @@ from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 import pickle
 import matplotlib.pyplot as plt
 import seaborn as sns
+import sklearn
 from nltk.stem import PorterStemmer
 
 # Download NLTK resources
