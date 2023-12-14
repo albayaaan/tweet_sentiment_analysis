@@ -1,7 +1,7 @@
 streamlit
 pandas
 nltk
-pickle
+pickleshare
 Sastrawi
 seaborn
 matplotlib
