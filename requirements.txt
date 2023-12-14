@@ -5,4 +5,4 @@ pickleshare
 Sastrawi
 seaborn
 matplotlib
-sklearn
+scikit-learn
