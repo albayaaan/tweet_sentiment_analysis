@@ -3,10 +3,6 @@ import pandas as pd
 import string
 import nltk
 import re
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.svm import SVC
-from sklearn.metrics import accuracy_score, classification_report
-from nltk.corpus import stopwords
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 import pickle
 import matplotlib.pyplot as plt
