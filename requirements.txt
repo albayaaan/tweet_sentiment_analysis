@@ -6,4 +6,3 @@ Sastrawi
 seaborn
 matplotlib
 scikit-learn
-sklearn
